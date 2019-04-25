@@ -6,7 +6,7 @@ Please send your resume to kejackz@vmware.com and it's better to add the  **posi
  
 <img src="https://github.com/KeZhang/recruiting/blob/master/qr.png" width="300">
 
-## QE Engineer (3 positions, 1 urgent)
+## QE Engineer (2 QE + 1 DevOps)
 ---
 **Responsibilities**
 
