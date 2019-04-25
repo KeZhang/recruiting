@@ -6,38 +6,6 @@ Please send your resume to kejackz@vmware.com and it's better to add the  **posi
  
 <img src="https://github.com/KeZhang/recruiting/blob/master/qr.png" width="300">
 
-## QE Engineer (2 QE + 1 DevOps)
----
-**Responsibilities**
-
-Collaborate with the team in a rigorous Agile software development methodology; Partner with dev team to ensure the release of quality products. Own a specific product area and/or a specific technology layer.
- 
-**Requirements**
-* Execute QE tasks through a product’s life cycle: test specification, test
-plan, test scenarios, test execution, acceptance review, and release to
-Production;
-* Improve software quality through testing and advocacy, with a constant
-focus on the customer experience.
-Required skills and experience:
-* Bachelor's degree or above in Computer Science or equivalent
-* 8+ years in Quality Engineering, Product Assurance and/or Software
-Programming
-* Strong verbal and written English, with great interpersonal communication
-skills
-* Excellent problem-solving skills, including isolating bugs in complex code
-* Ability to think independently and take initiative to make the project
-succeed
-* Expertise with Linux environment
-* Hands-on experience with automation testing
-* Coding/Testing Experience with REST APIs and/or Web Application, Web
-Server is a plus
-* Expertise with vSphere/vCenter is a plus
-* Expertise with these tool chains is a plus: Jenkins/Gitlab, Atlassian Jira
-and Confluence
-
-Detail: https://github.com/KeZhang/recruiting/blob/master/jds/JD_CPSBU_QE_SR.pdf
-
-
 ## Backend Software Engineer (3 positions)
 ---
 **Responsibilities**
@@ -84,5 +52,38 @@ Continuous Integration, Scrum)
 * Outstanding interpersonal and communication skills. 
 
 Detail: https://github.com/KeZhang/recruiting/blob/master/jds/JD_SrWebUI.pdf
+
+## QE Engineer (2 QE + 1 DevOps)
+---
+**Responsibilities**
+
+Collaborate with the team in a rigorous Agile software development methodology; Partner with dev team to ensure the release of quality products. Own a specific product area and/or a specific technology layer.
+ 
+**Requirements**
+* Execute QE tasks through a product’s life cycle: test specification, test
+plan, test scenarios, test execution, acceptance review, and release to
+Production;
+* Improve software quality through testing and advocacy, with a constant
+focus on the customer experience.
+Required skills and experience:
+* Bachelor's degree or above in Computer Science or equivalent
+* 8+ years in Quality Engineering, Product Assurance and/or Software
+Programming
+* Strong verbal and written English, with great interpersonal communication
+skills
+* Excellent problem-solving skills, including isolating bugs in complex code
+* Ability to think independently and take initiative to make the project
+succeed
+* Expertise with Linux environment
+* Hands-on experience with automation testing
+* Coding/Testing Experience with REST APIs and/or Web Application, Web
+Server is a plus
+* Expertise with vSphere/vCenter is a plus
+* Expertise with these tool chains is a plus: Jenkins/Gitlab, Atlassian Jira
+and Confluence
+
+Detail: https://github.com/KeZhang/recruiting/blob/master/jds/JD_CPSBU_QE_SR.pdf
+
+
 
 
